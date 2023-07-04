@@ -8,7 +8,7 @@ Maker Pi Pico : OLED Display
 GP0           -  SDA	              
 GP1           -  SCL	
 
-AUTHOR  : Cytron Technologies Sdn Bhd
+AUTHOR   : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
 EMAIL    : support@cytron.io
 
